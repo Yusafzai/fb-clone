@@ -1,9 +1,3 @@
 #Fb-Clone
 
-#ToGetTheCodeWorking:::::::::::
-:::::::::::::::::::::::::::::::
-Its a must to put  :: npm start ::  in the terminal to get the code going on the local host
-//////////////////////
-/////////////////////
-////////////////////
-///////////////////
+#TheSite is Hosted On => https://facebook-clone-27eb3.web.app/
